@@ -1,5 +1,4 @@
-Nebula Contacts Manager v1.3.6 PRO
-Nebula is a professional, high-performance contact management system designed for speed, privacy, and absolute control over your data. Unlike cloud-based solutions, Nebula operates 100% locally on your computer, ensuring your sensitive information never leaves your device.
+Nebula Contacts Manager is a professional, high-performance contact management system designed for speed, privacy, and absolute control over your data. Unlike cloud-based solutions, Nebula operates 100% locally on your computer, ensuring your sensitive information never leaves your device.
 
 
 <img width="1302" height="693" alt="2026-05-13 22_18_08-NEBULA CONTACT MANAGER PRO v1 3 5" src="https://github.com/user-attachments/assets/30fbc381-f13f-4386-9914-3b8b53625201" />
