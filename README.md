@@ -40,4 +40,4 @@ Storage: Minimal disk space (uses a local .db file for data persistence).
 🔒 Security & Privacy
 Nebula is built on the principle of Zero-Knowledge. The developer has no access to your database, your contacts, or your usage patterns. You are the sole owner and custodian of your data.
 
-For License Keys & Support: aplicatiipython@outlook.com
+For Pro License Keys & Support: aplicatiipython@outlook.com
